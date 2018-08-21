@@ -58,4 +58,4 @@ texpreamble("
 \includexmp{licence}
 ");
 
-shipout(bbox(scale(0.25)*currentpicture,Fill(black)),format="pdf");
+shipout(bbox(currentpicture,Fill(black)),format="pdf");
