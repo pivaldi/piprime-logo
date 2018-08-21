@@ -44,10 +44,10 @@ latticeshade(prim,new pen[][]{{black,p1,p2}});
 real sq=scsq/2;
 picture picl;
 
-label(scale(2)*"\ct{C}",(-sq,sq),SE);
-label(scale(2)*"\ct{Q}",(sq,sq),SW);
-label(scale(2)*"\ct{F}",(sq,-sq),NW);
-label(scale(2)*"\ct{D}",(-sq,-sq),NE);
+label(scale(8)*"\ct{C}",(-sq,sq),SE);
+label(scale(8)*"\ct{Q}",(sq,sq),SW);
+label(scale(8)*"\ct{F}",(sq,-sq),NW);
+label(scale(8)*"\ct{D}",(-sq,-sq),NE);
 
 texpreamble("
 \usepackage[pdfauthor={Philippe IVALDI},
