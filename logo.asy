@@ -2,6 +2,7 @@ settings.tex="pdflatex";
 texpreamble("
 \usepackage{boxedminipage}
 \usepackage{fancybox}
+
 \usepackage{xmpincl}
 \usepackage{color}
 \definecolor{mred}{rgb}{0.796875,0,0}
