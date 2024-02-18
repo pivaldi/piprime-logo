@@ -5,7 +5,7 @@
    </p>
 
    <p align="center">
-       <img src="./logo-bw.png" alt="Logo black & white piprime.fr" style="max-width:100%;">
+       <img src="./logo-bw.png" alt="Logo black & white piprime.fr" style="background: white;max-width:100%;">
    </p>
 
 
